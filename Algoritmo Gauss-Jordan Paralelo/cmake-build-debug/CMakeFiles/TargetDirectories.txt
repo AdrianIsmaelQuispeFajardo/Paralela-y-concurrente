@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/Algoritmo Gauss-Jordan Paralelo/cmake-build-debug/CMakeFiles/Paralelo.dir
+C:/Users/User/CLionProjects/Algoritmo Gauss-Jordan Paralelo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/Algoritmo Gauss-Jordan Paralelo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
